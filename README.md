@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**FSP-1920118146/FSP-1920118146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FSP-1920118146/KRIPTOGRAFI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
